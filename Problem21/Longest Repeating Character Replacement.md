@@ -6,7 +6,7 @@
 
 ### Complexity : Time Complexity : O(1) and space Complexity : O(n)
 
-nitialization: Initialize a sliding window with two pointers, left and right. Also, maintain an unordered_map (alphabets) to store the frequency of characters in the current window.
+initialization: Initialize a sliding window with two pointers, left and right. Also, maintain an unordered_map (alphabets) to store the frequency of characters in the current window.
 
 Reason: The sliding window approach allows us to efficiently process the string and focus on a specific segment without redundant computations. The alphabets map helps in keeping track of the frequency of characters within the window.
 
