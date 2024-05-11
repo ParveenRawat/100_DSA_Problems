@@ -4,7 +4,7 @@
 
 ## Method-1 : using a character index array
 
-### Complexity : Time Complexity : O(1) and space Complexity : O(n)
+### Complexity : Time Complexity : O(n) and space Complexity : O(n)
 
 initialization: Initialize a sliding window with two pointers, left and right. Also, maintain an unordered_map (alphabets) to store the frequency of characters in the current window.
 

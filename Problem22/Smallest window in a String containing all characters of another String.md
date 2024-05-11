@@ -5,7 +5,7 @@
 ## Method-1 : using a character index array
 
 
-### Complexity : Time Complexity : O(1) and space Complexity : O(n)
+### Complexity : Time Complexity : O(n) and space Complexity : O(n)
 
 Initialize a character array map of size 128 to store the frequency of characters in string t.
 
